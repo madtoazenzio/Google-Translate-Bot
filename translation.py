@@ -6,6 +6,6 @@ class Translation(object):
 
     ABOUT_MSG = """🤖 Bot : Google Translator\n\n👨‍🎓 Credit : @Z_Bots\n\n🎙️ Language : Python3\n\n📚 Lybrary : Pyrogram v1.2.9\n\n🛑 Server : Heroku 🚄\n\n📱 Build :V0.4"""
 
-    CREDITS = """Credits Here"""
+    CREDITS = """Mo Tech Team And Z Bots Team😊"""
 
 
